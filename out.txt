@@ -1,0 +1,5 @@
+Hello, file!
+This is a second line of output.
+Sabi (ID#123) worked 31.4 hours (7.85 hours/day)
+Eric (ID#456) worked 36.8 hours (7.36 hours/day)
+Juan (ID#789) worked 39.5 hours (7.90 hours/day)
