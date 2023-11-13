@@ -1,0 +1,4 @@
+Roses are red
+violets are blue
+recursion is sticky
+and so is glue
